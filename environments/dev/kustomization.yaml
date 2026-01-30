@@ -1,0 +1,2 @@
+resources:
+- ../../manifests/demo-app/overlays/dev
