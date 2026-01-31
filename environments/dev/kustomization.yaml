@@ -1,2 +1,2 @@
 resources:
-- ../../manifests/demo-app/overlays/dev
+  - ../../manifests/demo-app/overlays/dev

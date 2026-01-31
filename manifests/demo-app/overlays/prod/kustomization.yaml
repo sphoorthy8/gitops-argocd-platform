@@ -1,8 +1,8 @@
 namespace: demo-prod
 
 resources:
-- ../../base
-- namespace-prod.yaml
+  - ../../base
+  - namespace-prod.yaml
 
 patchesStrategicMerge:
-- patch.yaml
+  - patch.yaml
